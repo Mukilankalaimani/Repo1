@@ -1,2 +1,0 @@
-Created a new file test2.txt
-I am editing the file 
